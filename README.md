@@ -33,6 +33,11 @@ pip install -r requirements.txt
 ├── data.zip
 └── best_model_V3.*
 ```
+## Simple Model file
+- model.py
+
+## Full file with model, train, evaluate and config
+- code.zip
 
 ## Data Availability
 
