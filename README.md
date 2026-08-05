@@ -6,7 +6,7 @@ Published in *IEEE Transactions on Industrial Informatics*.
 
 ## Note
 
-The source code files in this repository have been **encrypted**. If you need access to the decryption key, please contact the corresponding author.
+The source code, simulated datasets, and pre-trained model weights in this repository are **publicly available** without any access restrictions. The raw real-world dataset from the 110 kV substation is not included due to confidentiality agreements with the power utility. For questions regarding the real-world data, please contact the corresponding author.
 
 ## Requirements
 
